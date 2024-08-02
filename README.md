@@ -9,4 +9,5 @@ Este projeto é um projeto desenvolvido na **Unity** com scripts em **C#** e mod
 
 Confira uma prévia do projeto no vídeo abaixo:
 
-[![Assista ao vídeo](https://www.youtube.com/watch?v=yLzhugenUNI)]
+[Game Fps Unity (Miniaturized Game)](https://www.youtube.com/watch?v=VIDEO_ID)
+
