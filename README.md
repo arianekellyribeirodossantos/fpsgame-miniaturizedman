@@ -9,5 +9,5 @@ Este projeto é um projeto desenvolvido na **Unity** com scripts em **C#** e mod
 
 Confira uma prévia do projeto no vídeo abaixo:
 
-(https://www.youtube.com/watch?v=VIDEO_ID)
+([https://www.youtube.com/watch?v=VIDEO_ID](https://www.youtube.com/watch?v=yLzhugenUNI))
 
